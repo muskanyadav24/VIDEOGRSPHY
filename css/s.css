@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* section start-4 */
+.counter{
+    height: 800px;
+    width: 100%;
+    background-color: #0F0028;
+    padding-top: 400px;
+
+}
+.text{
+    /* width: 200px;
+    height: 200px; */
+    transition: 0.5s;
+    transform: rotate(-45deg);
+}
+.number-n{
+    font-size: 60px;
+}
+.h{
+    font-weight: 300;
+    font-size: 16px;
+}
+
+
+.mt-180{
+    margin-top: -180px;
+}
+
+.square{
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-color: #1A083D;
+    transform: rotate(45deg);
+}
+
+.pattern{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width:250%;
+    height:250%;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.pattern-2{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width:250%;
+    height:250%;
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+
+.pattern-3{
+    position: absolute;
+    left: -47px;
+    top: -46px;
+    width:250%;
+    height:250%;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+
+.pattern-4{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width:250%;
+    height:250%;
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* section end-4 */
