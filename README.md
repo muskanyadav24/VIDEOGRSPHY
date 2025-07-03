@@ -5,10 +5,15 @@ Welcome to **VIDEOGRSPHY** — a modern and stylish frontend project built to sh
 ## 📁 Project Structure
 
 ├── css/ # Stylesheets (layout, animations, responsive design)
+
 ├── icons/ # Icon packs used in the UI
+
 ├── images/ # Media or gallery content
+
 ├── webfonts/ # Custom web fonts
+
 ├── index.html # Main HTML file for the website
+
 └── README.md # Project documentation
 
 
