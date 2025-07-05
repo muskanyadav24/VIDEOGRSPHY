@@ -28,7 +28,7 @@ Welcome to **VIDEOGRSPHY** — a modern and stylish frontend project built to sh
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/username/VIDEOGRSPHY.git
+   git clone https://github.com/muskanyadav24/VIDEOGRSPHY.git
 
 💡 Use Case
 Ideal for:
